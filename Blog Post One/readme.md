@@ -15,4 +15,6 @@ For the past weeks, I have been working on the construction of the base environm
 ![](images/AngkorWat_side.png)
 *Side view*
 
-This 3D model of Angkor Wat is much more detailed than the one I used for my first prototype. The model is also much larger and contains a lot of empty spaces that I can use to integrate other features of my project. Thus, my next step is to add objects, people, and interaction to this environment. 
+This 3D model of Angkor Wat is much more detailed than the one I used for my first prototype. It is much larger and contains a lot of empty spaces that I can use to integrate the interactive features of my project. The aesthetic of this model is quite appealing and mystic, conveying the magical and mythological aspects of my project. 
+
+Now that I have built the base, my next step is to add objects, people, and interaction to this environment. I plan to accomplish this by further working on Maya to model the neccessary 3D objects. I also hope to find and use free 3D models that are available online. 
