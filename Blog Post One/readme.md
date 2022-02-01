@@ -2,6 +2,7 @@
 
 For the past weeks, I have been working on the construction of the base environment where animations and interactions will be implemented. With the help from [Virtual Angkor Project](https://www.virtualangkor.com/), I was able to obtain the 3D model of Angkor Wat and its corresponding textures, as shown in the screenshots below. 
 
+
 ![](images/AngkorWat_top.png)
 *Top view*
 
@@ -13,3 +14,5 @@ For the past weeks, I have been working on the construction of the base environm
 
 ![](images/AngkorWat_side.png)
 *Side view*
+
+This 3D model of Angkor Wat is much more detailed than the one I used for my first prototype. The model is also much larger and contains a lot of empty spaces that I can use to integrate other features of my project. Thus, my next step is to add objects, people, and interaction to this environment. 
