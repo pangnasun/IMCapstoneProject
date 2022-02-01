@@ -5,7 +5,7 @@ For the past weeks, I have been working on the construction of the base environm
 ![](images/AngkorWat_top.png)
 *Top view*
 
-![](images/AnkgorWat_far.png)
+![](images/AngkorWat_far.png)
 *Front view*
 
 ![](images/AngkorWat_front.png)
