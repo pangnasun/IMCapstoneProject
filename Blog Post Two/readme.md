@@ -4,11 +4,11 @@
 I have been working on 3D modeling of characters for my scene. 
 
 
-![](images/soldier.png)
+![](images/soldier.PNG)
 
-![](images/boy.png)
+![](images/boy.PNG)
 
-![](images/boy2.png)
+![](images/boy2.PNG)
 
 
 
