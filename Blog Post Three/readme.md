@@ -9,7 +9,9 @@ My avarta will be standing infront of Angkor Wat, waving and welcoming players t
 
 I also worked on the environment of my project. I added grassland around the temple as well as created a moat outside the wall of Angkor Wat. 
 
+[![Demo](images/AngkorWat_moat.gif)](https://www.youtube.com/watch?v=5hSWdtp_nuI)
+
 ![](images/AngkorWat_moat.gif)(https://www.youtube.com/watch?v=5hSWdtp_nuI)
-Please use this link[https://www.youtube.com/watch?v=5hSWdtp_nuI] to watch on Youtube. 
+Please use this [link](https://www.youtube.com/watch?v=5hSWdtp_nuI) to watch on Youtube. 
 
 
