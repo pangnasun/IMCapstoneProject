@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/47574691/155343862-af7b6da8-f4cf-497c-
 
 
 
-This scene also includes an underwater quest where the player needs to deep deep to find the hidden treasure. 
+This scene also includes an underwater quest where the player needs to deep deep to find the hidden treasure. Creating underwater effect was tricky, so it required a lot of time and debugging. Now that I have it running, I will able to add more objectss and characters to make this scene more complete. 
 
 https://user-images.githubusercontent.com/47574691/155342927-d9c1333d-1694-46c0-850a-66bd85cf4f66.mp4
 
