@@ -1,6 +1,6 @@
 # Weekly Blog Post Four: Adding Scenes
 
-I have added another scene to my project. In this scene, the player is teleported to another environment and their objective is to explore the place and complete the quest. 
+I have added another scene to my project. In this scene, the player is teleported to another environment and their objective is to explore the place and complete the quest. As shown in the video, I was able to implement movement control to move around in this scene. 
 
 
 
