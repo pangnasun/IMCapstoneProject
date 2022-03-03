@@ -20,4 +20,4 @@ https://user-images.githubusercontent.com/47574691/156536677-4d36ea80-5158-4210-
 https://user-images.githubusercontent.com/47574691/156536696-6978b751-e071-4c45-ae05-3ff734acce11.mp4
 
 
-I added this fuzziness to the player's perspective to create a dream-like experience. This connects to the theme of my project in which the personal stories and the myths intertwine to create a one cohesive storyline. 
+I added this fuzziness to the player's perspective to create a dream-like experience. This connects to the theme of my project in which the personal stories and the myths intertwine to create a one cohesive narrative. 
